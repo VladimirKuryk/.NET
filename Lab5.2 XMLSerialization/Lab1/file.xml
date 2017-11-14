@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ResearchTeam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrganizationName>Organization1</OrganizationName>
+  <RegNumber>1</RegNumber>
+  <Name>Organization1</Name>
+  <investigationName>invName1</investigationName>
+  <duration>Long</duration>
+  <participants>
+    <Person>
+      <name>James</name>
+      <surname>Lock</surname>
+      <birthday>1963-12-01T00:00:00</birthday>
+    </Person>
+    <Person>
+      <name>Julia</name>
+      <surname>Brook</surname>
+      <birthday>1987-04-03T00:00:00</birthday>
+    </Person>
+  </participants>
+  <publicationList>
+    <Paper>
+      <publicationName>How does it work?: By James Lock</publicationName>
+      <author>
+        <name>James</name>
+        <surname>Lock</surname>
+        <birthday>1963-12-01T00:00:00</birthday>
+      </author>
+      <publicationDate>1980-11-08T00:00:00</publicationDate>
+    </Paper>
+    <Paper>
+      <publicationName>Counting the stars</publicationName>
+      <author>
+        <name>Julia</name>
+        <surname>Brook</surname>
+        <birthday>1987-04-03T00:00:00</birthday>
+      </author>
+      <publicationDate>2000-09-12T00:00:00</publicationDate>
+    </Paper>
+  </publicationList>
+</ResearchTeam>
