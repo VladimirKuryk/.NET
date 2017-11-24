@@ -1,0 +1,7 @@
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\STUDY\Course 4 University\NET\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
